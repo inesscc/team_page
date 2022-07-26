@@ -1,11 +1,11 @@
-name: "MyLabJournal"
+name: "SSCC"
 navbar:
-  title: "MyLabJournal"
+  title: "SSCC"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Proyectos"
       href: Journal.html
-    - text: "Links"
+    - text: "Links de utilidad"
       href: Links.html
 output_dir: "docs"
